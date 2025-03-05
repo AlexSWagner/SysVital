@@ -1,4 +1,4 @@
-# SysVital - System Monitoring Tool (Prviously PCMonitor)
+# SysVital - System Monitoring Tool
 
 SysVital is a lightweight, modern system monitoring application for Windows that provides real-time information about your computer's hardware performance.
 
